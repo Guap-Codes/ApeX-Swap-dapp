@@ -1,0 +1,40 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Build output files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Temporary files
+*~
+*.swp
+*.bak
+*.cache
+
+# Logs and backup files
+*.log
+*.bak
+*.backup
+*.db
+
+# Dependency files
+node_modules/
+vendor/
+
+# Configuration files
+.env
+*.env
+config.js
+config.json
+settings.js
+
+# Editor or IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
